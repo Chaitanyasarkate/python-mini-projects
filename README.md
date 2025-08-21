@@ -9,7 +9,11 @@
   <img src="https://img.shields.io/badge/Status-Active-success?logo=github" />
   <img src="https://img.shields.io/github/stars/Chaitanyasarkate/python-mini-projects?style=social" />
   <img src="https://img.shields.io/badge/Contributions-Welcome-orange?logo=github" />
+  <img src="https://img.shields.io/github/repo-size/Chaitanyasarkate/python-mini-projects?color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/Chaitanyasarkate/python-mini-projects?color=red" />
 </p>
+
+<h2 align="center">✨ Learn Python by Building Real Projects ✨</h2>
 
 ---
 
@@ -24,23 +28,30 @@ It’s designed to help beginners learn Python step-by-step while building **rea
 ### 🌱 Beginner Projects  
 | # | Project | Description |
 |---|---------|-------------|
-| 1 | 🧮 **Calculator (CLI App)** | Solve any arithmetic expression directly in the terminal. |
-| 2 | 🎯 **Guess the Number** | Try to guess the number chosen by the computer. |
-| 3 | ✂️ **Rock, Paper, Scissors** | Classic user vs computer hand game. |
-| 4 | 📝 **To-Do List** | Add, remove, and view your daily tasks. |
-| 5 | 🔑 **Password Generator** | Generate secure & random passwords. |
-| 6 | 🎲 **Dice Simulator** | Roll one or more dice randomly. |
-| 7 | 🌡 **Unit Converter** | Convert Celsius ↔ Fahrenheit, KM ↔ Miles, etc. |
+| 1 | [🧮 Calculator (CLI App)](01_calculator/) | Solve arithmetic expressions in the terminal. |
+| 2 | [🎯 Guess the Number](02_guess_the_number/) | Try to guess the number chosen by the computer. |
+| 3 | [✂️ Rock, Paper, Scissors](03_rock_paper_scissors/) | Classic user vs computer hand game. |
+| 4 | [📝 To-Do List](04_todo_list/) | Add, remove, and view your daily tasks. |
+| 5 | [🔑 Password Generator](05_password_generator/) | Generate secure & random passwords. |
+| 6 | [🎲 Dice Simulator](06_dice_simulator/) | Roll one or more dice randomly. |
+| 7 | [🌡 Unit Converter](07_unit_converter/) | Convert Celsius ↔ Fahrenheit, KM ↔ Miles, etc. |
 
 ---
 
 ### ⚡ Intermediate Projects  
 | # | Project | Description |
 |---|---------|-------------|
-| 8  | ❓ **Quiz App** | General Knowledge MCQs with scoring system. |
-| 9  | ⏰ **Alarm Clock** | Rings at a given time (with sound). |
-| 10 | 📇 **Contact Book** | Store, search & update personal contacts. |
-| 11 | 🎓 **Student Report System** | Manage student records (CRUD operations). |
+| 8  | [❓ Quiz App](08_quiz_app/) | General Knowledge MCQs with scoring system. |
+| 9  | [⏰ Alarm Clock](09_alarm_clock/) | Rings at a given time (with sound). |
+| 10 | [📇 Contact Book](10_contact_book/) | Store, search & update personal contacts. |
+| 11 | [🎓 Student Report System](11_student_report_system/) | Manage student records (CRUD operations). |
+
+---
+
+## 🛠 Tech Stack  
+- Python 3.10+ 🐍  
+- OOP Concepts 👨‍💻   
+- Automation Basics ⚡  
 
 ---
 
@@ -48,36 +59,18 @@ It’s designed to help beginners learn Python step-by-step while building **rea
 
 ```
 
-python/
-
+python-mini-projects/
 │── 01\_calculator/
-
 │── 02\_guess\_the\_number/
-
 │── 03\_rock\_paper\_scissors/
-
 │── 04\_todo\_list/
-
 │── 05\_password\_generator/
-
 │── 06\_dice\_simulator/
-
 │── 07\_unit\_converter/
-
 │── 08\_quiz\_app/
-
 │── 09\_alarm\_clock/
-
 │── 10\_contact\_book/
-
-│── 11\_expense\_tracker/
-
-│── 12\_weather\_app/
-
-│── 13\_file\_organizer/
-
-│── 14\_student\_report\_system/
-
+│── 11\_student\_report\_system/
 │── README.md
 
 ````
@@ -95,7 +88,7 @@ cd python-mini-projects
 ### 2️⃣ Run a Project
 
 ```bash
-cd 01_cal
+cd 01_calculator
 python cal.py
 ```
 
@@ -104,11 +97,11 @@ python cal.py
 ## 📦 Requirements
 
 * ✅ Most projects → **Pure Python (no external libs)**
-  
 * ⚡ Some projects need:
+
   * `.mp3` or `.wav` file → For Alarm Clock
 
-Install requirements (if needed):
+Install dependencies (if any):
 
 ```bash
 pip install -r requirements.txt
@@ -116,7 +109,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🖼 Preview (Examples)
+## 🖼 Preview
 
 ### Calculator
 
@@ -134,14 +127,15 @@ Too low! Try again.
 
 ---
 
-## 🤝 Contributing
+## 🤝 How to Contribute
 
-Want to add your own mini-project?
+Want to add your own mini-project? Follow these steps:
 
-1. Fork this repo 🍴
-2. Create a new folder → `15_my_project/`
-3. Add your `.py` file + `README.md`
-4. Submit a Pull Request 🚀
+1. 🍴 Fork this repository
+2. 🌱 Create a new branch → `git checkout -b feature-newProject`
+3. ✨ Add your project inside a new folder → `_my_project/`
+4. 📩 Commit & Push your changes
+5. 🚀 Submit a Pull Request
 
 ---
 
@@ -154,5 +148,3 @@ This project is licensed under the **MIT License**.
 <h3 align="center">Made by <a href="https://github.com/Chaitanyasarkate">Chaitanya Sarkate</a></h3>
 <p align="center">⭐ If you like this repo, don’t forget to star it! ⭐</p>
 ```
-
-
