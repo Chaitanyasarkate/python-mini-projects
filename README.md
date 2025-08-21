@@ -48,7 +48,7 @@ It’s designed to help beginners learn Python step-by-step while building **rea
 
 ```
 
-python-mini-projects/
+python/
 
 │── 01\_calculator/
 
