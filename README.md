@@ -59,18 +59,18 @@ It’s designed to help beginners learn Python step-by-step while building **rea
 
 ```
 
-python-mini-projects/
-│── 01\_calculator/
-│── 02\_guess\_the\_number/
-│── 03\_rock\_paper\_scissors/
-│── 04\_todo\_list/
-│── 05\_password\_generator/
-│── 06\_dice\_simulator/
-│── 07\_unit\_converter/
-│── 08\_quiz\_app/
-│── 09\_alarm\_clock/
-│── 10\_contact\_book/
-│── 11\_student\_report\_system/
+python/
+│── 01\_cal/cal.py
+│── 02\_numgame\numgame.py
+│── 03\_rockpaper\_rockpaper.py/
+│── 04\_todo\_todo.py/
+│── 05\_password\_generator/passwordgenerater.py
+│── 06\_dice\_dice.py/
+│── 07\_unit\_unit.py/
+│── 08\_quiz\_quiz.py/
+│── 09\_alarm\_alarm.py/
+│── 10\_contactbook\_contactbook.py/
+│── 11\_student\student.py/
 │── README.md
 
 ````
@@ -88,7 +88,7 @@ cd python-mini-projects
 ### 2️⃣ Run a Project
 
 ```bash
-cd 01_calculator
+cd 01_cal
 python cal.py
 ```
 
