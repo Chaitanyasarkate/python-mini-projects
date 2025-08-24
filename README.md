@@ -18,14 +18,12 @@
 ---
 
 ## 📌 About This Repository  
-
 This repository contains **11 Python mini-projects** ranging from **basic console apps** to **intermediate-level applications**.  
 It’s designed to help beginners learn Python step-by-step while building **real-world mini tools**.  
 
 ---
 
 ## 🎯 Project List  
-
 ### 🌱 Beginner Projects  
 
 | # | Project | Description |
@@ -60,7 +58,6 @@ It’s designed to help beginners learn Python step-by-step while building **rea
 ---
 
 ## 🗂 Folder Structure  
-
 ```
 
 python/
